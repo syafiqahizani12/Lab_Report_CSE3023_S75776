@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/lab%20web2/lab7/Lab%20Exercise%207/web/index.html</file>
+            <file>file:/C:/lab%20web2/lab7/Lab%20Exercise%207/src/java/com/lab/controller/SubjectServlet.java</file>
+            <file>file:/C:/lab%20web2/lab7/Lab%20Exercise%207/web/doLogin.jsp</file>
+            <file>file:/C:/lab%20web2/lab7/Lab%20Exercise%207/web/subject/updateSubject.jsp</file>
+            <file>file:/C:/lab%20web2/lab7/Lab%20Exercise%207/web/login.html</file>
+            <file>file:/C:/lab%20web2/lab7/Lab%20Exercise%207/web/subject/registerSubject.jsp</file>
+            <file>file:/C:/lab%20web2/lab7/Lab%20Exercise%207/src/java/com/lab/bean/StudentBean.java</file>
+            <file>file:/C:/lab%20web2/lab7/Lab%20Exercise%207/web/register.html</file>
+            <file>file:/C:/lab%20web2/lab7/Lab%20Exercise%207/src/java/com/lab/dao/SubjectDAO.java</file>
+            <file>file:/C:/lab%20web2/lab7/Lab%20Exercise%207/web/subject/viewSubjects.jsp</file>
+            <file>file:/C:/lab%20web2/lab7/Lab%20Exercise%207/web/dashboard.jsp</file>
+            <file>file:/C:/lab%20web2/lab7/Lab%20Exercise%207/web/login.jsp</file>
+            <file>file:/C:/lab%20web2/lab7/Lab%20Exercise%207/src/java/com/lab/dao/StudentDAO.java</file>
+            <file>file:/C:/lab%20web2/lab7/Lab%20Exercise%207/web/logout.jsp</file>
+            <file>file:/C:/lab%20web2/lab7/Lab%20Exercise%207/src/java/com/lab/bean/SubjectBean.java</file>
+            <file>file:/C:/lab%20web2/lab7/Lab%20Exercise%207/src/java/com/lab/controller/UserServlet.java</file>
+        </group>
+    </open-files>
+</project-private>
